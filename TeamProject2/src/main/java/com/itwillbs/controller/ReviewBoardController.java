@@ -29,5 +29,8 @@ public class ReviewBoardController extends HttpServlet{
 	}//doPost()
 	
 
+	protected void doProcess(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
+		
+	}	
 }
